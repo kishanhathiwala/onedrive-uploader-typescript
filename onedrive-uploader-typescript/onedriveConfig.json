@@ -1,0 +1,5 @@
+{
+  "tenantId": "ENTER_TENANT_ID",
+  "clientId": "ENTER_CLIENT_ID",
+  "authority": "https://login.microsoftonline.com"
+}
